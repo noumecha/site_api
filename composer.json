@@ -1,0 +1,13 @@
+{
+    "name": "noumel/site_api",
+    "description": "Drupal module api for web site",
+    "type": "drupal-custom-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "noumecha spaker",
+            "email": "noumechaivan@gmail.com"
+        }
+    ],
+    "require": {}
+}
