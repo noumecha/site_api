@@ -39,7 +39,7 @@ class GetArticles extends ResourceBase {
       $output = [];
       foreach($nodes as $key => $node)
       {
-        $ouput[$key]['title'] = $node->get('title')->getValue();
+        $output[$key]['title'] = $node->get('title')->getValue();
       }
       return $output;
     }
